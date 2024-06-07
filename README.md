@@ -10,6 +10,3 @@
 - Techniques and algorithms in Multi-Objective Reinforcement Learning
 - Applications of MORL in various domains such as gas grids and optimization
 - Latest research findings and trends in artificial intelligence and machine learning
-
-✉️ **Contact Me**
-[LinkedIn](https://www.linkedin.com/in/thomas-schmidt-5300a8109/)
