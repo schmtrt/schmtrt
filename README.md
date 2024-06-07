@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-**schmtrt/schmtrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I’m a Research Associate for AI-based optimization @ THI**
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on: 
+🔭 **I’m currently working on:** 
 - Multi-Objective Reinforcement Learning (MORL) projects
 - Applying MORL to real-world scenarios
 
-- 🌱 I’m currently learning:
+🌱 **I’m currently learning:**
 - Techniques and algorithms in Multi-Objective Reinforcement Learning
 - Applications of MORL in various domains such as gas grids and optimization
 - Latest research findings and trends in artificial intelligence and machine learning
+
+✉️ **Contact Me**
+[LinkedIn](https://www.linkedin.com/in/thomas-schmidt-5300a8109/)
